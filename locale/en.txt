@@ -51,6 +51,8 @@ panorama_6F3F377E_70B9_3DD2_41D5_8EA2B24CCFCC.label = TOMA 1
 ## Action
 
 ### URL
+LinkBehaviour_535105F0_70D9_1CEE_41B0_BFA0CD260A5A.source = https://api.whatsapp.com/send?phone=595981770790&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20calzados%20de%20CKS.
+LinkBehaviour_537B6644_70D9_1F36_41C4_DFCF0BE1A5C3.source = https://api.whatsapp.com/send?phone=595981770790&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20calzados%20de%20CKS.
 LinkBehaviour_6B3E7C3B_7058_F352_41B6_2B7BC0613A58.source = https://api.whatsapp.com/send?phone=595981770790&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20calzados%20de%20CKS.
 LinkBehaviour_78C03949_6FD8_F53E_41B2_A613DB1D3F3E.source = https://api.whatsapp.com/send?phone=595981770790&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20calzados%20de%20CKS.
 LinkBehaviour_78C06949_6FD8_F53E_41C4_5111CDEF56D3.source = https://api.whatsapp.com/send?phone=595981770790&text=%C2%A1Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20calzados%20de%20CKS.
