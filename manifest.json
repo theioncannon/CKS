@@ -1,7 +1,9 @@
 {
+ "start_url": "index.htm",
+ "name": "CKS - Showroom Digital",
  "background_color": "#FFFFFF",
  "description": "Salón de ventas de calzados Klin, Reed, Soda y Sunly para mayoristas.",
- "name": "CKS - Showroom Digital",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +41,5 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
- "start_url": "index.htm"
+ "display": "fullscreen"
 }
